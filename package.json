@@ -9,11 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^1.0.3",
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "express-session": "^1.15.6",
     "mustache": "^2.3.0",
     "pg": "^7.3.0",
     "sequelize": "^4.13.8"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^3.0.0"
   }
 }

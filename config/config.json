@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "root",
+    "username": "EamonBachari",
     "password": null,
-    "database": "database_development",
+    "database": "whereyouat",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "postgres"
   },
   "test": {
-    "username": "root",
+    "username": "EamonBachari",
     "password": null,
-    "database": "database_test",
+    "database": "whereyouat",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "postgres"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "username": "asvjtyssybojvb",
+    "password": "0ee2fc8bc6b26bad8bc04f5e23db01d59b2a8baf4148e52826b216ab63e77ba5",
+    "database": "d3fuedq70879lm",
+    "host": "ec2-23-21-88-45.compute-1.amazonaws.com",
+    "dialect": "postgres"
   }
 }
